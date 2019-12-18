@@ -1,2 +1,2 @@
 # tabbar
-#### tabbar练习vuerouter的基本使用。 
+####  a simple tabber
